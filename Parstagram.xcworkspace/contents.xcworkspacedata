@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/josealvarez/Documents/IOS Swift/Parstagram/Parstagram/LoginViewController.swift">
+   </FileRef>
+   <FileRef
       location = "group:Parstagram.xcodeproj">
    </FileRef>
    <FileRef
